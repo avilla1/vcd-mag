@@ -1,7 +1,15 @@
 {
-  "_class": "page",
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
-  "do_objectID": "A6B06699-6F4C-4007-B9FC-AFF5B7C99BD9",
+  "changeIdentifier": 3,
+  "do_objectID": "DDFF9553-F8F8-4320-8BF9-FA0F73A9B362",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,33 +22,50 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 56,
+    "width": 320,
+    "x": 100,
+    "y": 232
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -900,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1FEE0DE9-5E70-417C-A67D-162767F30B53"
+    },
+    {
+      "class": "text",
+      "id": "A1EC7491-3D6F-4EAF-91DC-04AB4449328A"
+    },
+    {
+      "class": "text",
+      "id": "2F2B47A9-0266-48C1-B3AC-4595F00B6855"
+    }
   ],
-  "name": "Page 1",
+  "name": "Nav Bar",
   "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -48,9 +73,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "4A67E028-D3F8-4262-8317-40236AB24724",
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -635,
+    "base": 0,
     "guides": [
     ]
   }

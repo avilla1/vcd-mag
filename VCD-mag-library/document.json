@@ -34,7 +34,10 @@
   },
   "pages": [
     "Library Preview",
-    "Page 1"
+    "Logos",
+    "UI Elements",
+    "Student Listings",
+    "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
